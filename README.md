@@ -8,3 +8,15 @@ O valor do Lifetime Value permite que a empresa faça projeções orçamentária
 
 O trabalho atual foi desenvolvido com dados reais, mas respeitando os dados conforme a LGPD.
 
+Fórmula do LTV:
+
+<div align="center">
+  <img src="https://github.com/CamilaDeAlm/LTV-2.0/blob/main/folder/Captura%20de%20tela%202024-08-21%20112533.png" alt="Exemplo" width="largura" height="altura">
+</div>
+
+Dashboard finalizado:
+<div align="center">
+  <img src="https://github.com/CamilaDeAlm/LTV-2.0/blob/main/folder/Captura%20de%20tela%202024-08-21%20112639.png" alt="Exemplo" width="largura" height="altura">
+</div>
+
+Fim.
