@@ -16,7 +16,7 @@ Fórmula do LTV:
 
 Dashboard finalizado:
 <div align="center">
-  <img src="https://github.com/CamilaDeAlm/LTV-2.0/blob/main/folder/Captura%20de%20tela%202024-08-21%20112639.png" alt="Exemplo" width="largura" height="altura">
+  <img src="https://github.com/CamilaDeAlm/LTV-2.0/blob/main/folder/Captura%20de%20tela%202024-08-28%20121048.png" alt="Exemplo" width="largura" height="altura">
 </div>
 
 Fim.
